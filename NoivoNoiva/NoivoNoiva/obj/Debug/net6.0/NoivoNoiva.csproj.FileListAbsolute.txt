@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\bin\Debug\net6.0\NoivoNoiva.exe
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\bin\Debug\net6.0\NoivoNoiva.deps.json
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\bin\Debug\net6.0\NoivoNoiva.runtimeconfig.json
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\bin\Debug\net6.0\NoivoNoiva.dll
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\bin\Debug\net6.0\NoivoNoiva.pdb
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\obj\Debug\net6.0\NoivoNoiva.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\obj\Debug\net6.0\NoivoNoiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\obj\Debug\net6.0\NoivoNoiva.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\obj\Debug\net6.0\NoivoNoiva.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\obj\Debug\net6.0\NoivoNoiva.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\obj\Debug\net6.0\NoivoNoiva.dll
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\obj\Debug\net6.0\refint\NoivoNoiva.dll
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\obj\Debug\net6.0\NoivoNoiva.pdb
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\obj\Debug\net6.0\NoivoNoiva.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\NoivoNoiva\NoivoNoiva\obj\Debug\net6.0\ref\NoivoNoiva.dll

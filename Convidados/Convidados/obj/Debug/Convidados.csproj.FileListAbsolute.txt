@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\Convidados\Convidados\bin\Debug\Convidados.exe.config
+C:\Users\LENOVO\source\repos\Convidados\Convidados\bin\Debug\Convidados.exe
+C:\Users\LENOVO\source\repos\Convidados\Convidados\bin\Debug\Convidados.pdb
+C:\Users\LENOVO\source\repos\Convidados\Convidados\obj\Debug\Convidados.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Convidados\Convidados\obj\Debug\Convidados.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Convidados\Convidados\obj\Debug\Convidados.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Convidados\Convidados\obj\Debug\Convidados.exe
+C:\Users\LENOVO\source\repos\Convidados\Convidados\obj\Debug\Convidados.pdb
