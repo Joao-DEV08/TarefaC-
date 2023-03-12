@@ -1,30 +1,33 @@
 ﻿using System;
-public class Exercicio1
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MaiusculoMinusculo
 {
-    public static void Main()
+    internal class Program
     {
-        int convidadosNoivo = 300;
-        int convidadosNoiva = 600;
-        int convidadosPresentesNoivo = 405;
-        int convidadosPresentesNoiva = 400;
+        static void Main(string[] args)
+        {
+            List <string> frutas = new List<string> ();
 
-        //inserir codigo do aqui…
+            frutas.Add("Maçã");
+            frutas.Add("banaNa");
+            frutas.Add("Uva");
+            frutas.Add("MelAncia");
+            frutas.Add("mangA");
 
-        if(convidadosNoivo > convidadosNoiva)
-        {
-            Console.WriteLine("O nº de convidados do noivo é maior que o da noiva");
-        }else
-        {
-            Console.WriteLine("O nº de convidados da noiva é maior que o do noivo");
-        }
+            frutas = frutas.ConvertAll(low => low.ToLowerInvariant());
 
-        if(convidadosPresentesNoivo > convidadosPresentesNoiva)
-        {
-            Console.WriteLine("Existem penetras, pois existem mais conviados do noivo do que da noiva");
-        }
-        else
-        {
-            Console.WriteLine("Existem penetras, pois existem mais conviados da noiva do que do noivo");
+
+            foreach (string item in frutas)
+            {
+                Console.WriteLine(item);
+            }
+
+            Console.ReadLine();
         }
     }
-};
+}
